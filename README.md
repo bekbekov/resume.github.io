@@ -1,1 +1,1 @@
-# bekbekov.github.io
+resume.github.io
